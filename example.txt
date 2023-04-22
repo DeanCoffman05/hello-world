@@ -1,1 +1,3 @@
 Adding text to show an example of product and work on git. 
+
+this is my second change to the document to be able to push. 
