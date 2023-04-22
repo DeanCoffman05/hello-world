@@ -1,0 +1,1 @@
+This is my first Commit. The Goal is to create this text file so it can be saved and tracked by Git. 
